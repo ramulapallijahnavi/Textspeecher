@@ -1,5 +1,5 @@
 🔗 TextSpeechify – Smart Speech & Text Converter
-⚠️ Project Challenge
+Project Challenge:
 
 Bridging the communication gap by enabling speech-to-text, text-to-speech, and document-to-audio conversion in a single lightweight, multilingual-friendly web app.
 
